@@ -52,3 +52,6 @@ The solution can then be reproduced in the following steps:
 All training notebooks have the same structure and differ in model/data parameters. Different versions are included to ensure reproducibility. To understand the training process, it is sufficient to go through the `codes/` and inspect one of the modeling notebooks. The ensembling code is also provided in this [Kaggle notebook](https://www.kaggle.com/kozodoi/47th-place-solution-bms-ensembling).
 
 More details are provided in the documentation within the codes & notebooks.
+
+## Author
+[@Denys0808](https://github.com/Denys0808)
